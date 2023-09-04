@@ -1,0 +1,4 @@
+OUTPUT:
+Enter a Base Number:2
+Enter the Power of the Number:5
+The Base of 2 to Power of 5 is 32
